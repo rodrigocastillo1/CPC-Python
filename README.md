@@ -8,4 +8,17 @@
 ## Project Overview
 This repository contains the practical exercises completed during the Compact Programming preparatory Course for the Master's program in Embedded Systems Engineering at FH Dortmund.
 
-
+## Repository Structure
+```text
+CPC-Python/
+├── README.md
+├── Week1/
+│   ├── Task1/
+│   │   └── main.py
+│   ├── Task2/
+│   │   └── simpleVariableDeclaration.py
+│   ├── Task3/
+│   │   └── dataTypeConversion.py
+│   └── Task4/
+│       └── factorialNumber.py
+```
