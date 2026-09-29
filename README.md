@@ -21,4 +21,15 @@ CPC-Python/
 │   │   └── dataTypeConversion.py
 │   └── Task4/
 │       └── factorialNumber.py
+├── Week2/
+│   ├── Task1/
+│   │   └── sortListOfTuples.py
+│   ├── Task2/
+│   │   └── digitsInAString.py
+│   ├── Task3/
+│   │   └── sortListWithLambda.py
+│   ├── Task4/
+│   |   └── stringsToLists.py
+│   └── Task5/
+│       └── filterByDate.py
 ```
