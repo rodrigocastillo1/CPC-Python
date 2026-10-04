@@ -32,4 +32,6 @@ CPC-Python/
 │   |   └── stringsToLists.py
 │   └── Task5/
 │       └── filterByDate.py
+├── Week3/
+│   └── NumpyTasks.py
 ```
