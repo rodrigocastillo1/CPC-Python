@@ -33,5 +33,7 @@ CPC-Python/
 │   └── Task5/
 │       └── filterByDate.py
 ├── Week3/
-│   └── NumpyTasks.py
+│   ├── NumpyTasks.py
+│   ├── PandasTasks.py
+│   └── dataTitanic.csv
 ```
